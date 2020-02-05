@@ -1,0 +1,7 @@
+package com.javaclass.test;
+
+public class Rectangle {
+	private int length=10;
+	private int width=20;
+
+}

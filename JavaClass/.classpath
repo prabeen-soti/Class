@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="HellowWorld/src"/>
+	<classpathentry kind="src" path="JavaOperators/src"/>
+	<classpathentry kind="src" path="JavaSeparators/src"/>
+	<classpathentry kind="src" path="JavaControlStatement"/>
+	<classpathentry kind="src" path="Questions"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

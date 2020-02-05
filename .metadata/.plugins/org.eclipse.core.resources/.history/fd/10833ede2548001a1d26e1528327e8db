@@ -1,0 +1,17 @@
+package com.javaclass;
+
+public class ClassAndMethod {
+
+	public static void main(String[] args) {
+		Employee newEmployee = new Employee();
+		Employee employee = new Employee();
+		System.out.println(newEmployee.fullName);
+		newEmployee.fullName = "New Employee";
+		System.out.println(newEmployee.fullName);
+		System.out.println(employee.fullName);
+
+		
+
+	}
+
+}

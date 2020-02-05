@@ -1,0 +1,10 @@
+Create a java project name MathOperation
+
+in package com.javaclass
+
+create main method inside MathOperation class
+
+Create diffrent class for addition , subtracttion , multiplication , remainder
+with only one method in each class with return value and two argument
+
+call all methods from  main method with there respective object and display in console

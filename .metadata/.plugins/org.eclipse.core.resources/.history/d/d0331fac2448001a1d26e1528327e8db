@@ -1,0 +1,9 @@
+package com.javaclass;
+
+public class ClassAndMethod {
+
+	public static void main(String[] args) {
+
+	}
+
+}

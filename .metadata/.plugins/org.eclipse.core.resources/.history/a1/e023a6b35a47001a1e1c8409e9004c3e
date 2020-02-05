@@ -1,0 +1,13 @@
+package com.javaclass.test;
+
+public class Box {
+	int length;
+	int width;
+	int height;
+	
+	void calculateVolume() {
+		int volume = length*width*height;
+		System.out.println("Volum of Box is "+volume);
+	}
+
+}
