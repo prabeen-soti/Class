@@ -4,4 +4,7 @@
 <fullyQualifiedTypeName name="com.javaclass.test.Box"/>
 <fullyQualifiedTypeName name="com.javaclass.test.Rectangle"/>
 <fullyQualifiedTypeName name="com.javaclass.Employee"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.javaclass.Student"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
 </qualifiedTypeNameHistroy>

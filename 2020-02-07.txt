@@ -1,0 +1,24 @@
+1
+write a program to calculate the sum of the series 1+11+111+...+ up to N terms.
+If N is 5 , then series is: 1+11+111+1111+11111
+
+2
+Display the Pattern
+
+Programming
+Programmin
+Programmi
+Programm
+Program
+Progra
+Progr
+Prog
+Pro
+Pr
+P
+
+3
+Write a program to calculate the series: 1x10 + 3x20 + 6x30 + .... + (N(N+1))x5N where N is an any positive integer.
+
+4 
+Create a class with static variable and assign and display variable value using static method of class
