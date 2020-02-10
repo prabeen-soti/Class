@@ -1,0 +1,47 @@
+Write a Java program to print the result of the following operations.
+a. -5 + 8 * 6
+b. (55+9) % 9
+c. 20 + -3*5 / 8
+d. 5 + 15 / 3 * 2 - 8 % 3
+
+Write a Java program that takes two numbers as input and display the product of two numbers.
+
+Write a Java program that takes a number as input and prints its multiplication table upto 10.
+As
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+
+Write a Java program to display the following pattern.
+Sample Pattern :
+
+   J    a   v     v  a                                                  
+   J   a a   v   v  a a                                                 
+J  J  aaaaa   V V  aaaaa                                                
+ JJ  a     a   V  a     a
+
+
+Write a Java program to print numbers between 1 to 100 which are divisible by 3, 5 and by both.
+
+Write a method of a class with three arguments to calculate the sum of two integers and 
+return true if the sum is equal to a third integer
+
+Write a Java program that accepts two integer values between 25 to 75 and 
+return true if there is a common digit in both numbers
+
+Write a Java program to display the number rhombus structure.
+
+      1                                                  
+     212                                                 
+    32123                                                
+   4321234                                               
+  543212345                                              
+ 65432123456                                             
+7654321234567                                            
+ 65432123456                                             
+  543212345                                              
+   4321234                                               
+    32123                                                
+     212                                                 
+      1
+

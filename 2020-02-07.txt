@@ -1,6 +1,9 @@
 1
 write a program to calculate the sum of the series 1+11+111+...+ up to N terms.
 If N is 5 , then series is: 1+11+111+1111+11111
+i =1 var = 1
+i=2 var = 11
+i=3 var = 11 var=111
 
 2
 Display the Pattern
