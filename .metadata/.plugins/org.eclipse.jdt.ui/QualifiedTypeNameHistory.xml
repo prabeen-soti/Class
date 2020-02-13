@@ -11,7 +11,12 @@
 <fullyQualifiedTypeName name="OuterClass.InnerClass"/>
 <fullyQualifiedTypeName name="OuterClass"/>
 <fullyQualifiedTypeName name="MathDemo"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="com.java.A"/>
 <fullyQualifiedTypeName name="com.javaclass.one.ClassA"/>
+<fullyQualifiedTypeName name="AdditionOperation"/>
+<fullyQualifiedTypeName name="MupliplicationOperation"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="Bike"/>
+<fullyQualifiedTypeName name="Bus"/>
+<fullyQualifiedTypeName name="Vehicle"/>
 </qualifiedTypeNameHistroy>
