@@ -7,7 +7,6 @@
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="com.javaclass.Student"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="OuterClass.InnerClass"/>
 <fullyQualifiedTypeName name="OuterClass"/>
 <fullyQualifiedTypeName name="MathDemo"/>
@@ -19,4 +18,7 @@
 <fullyQualifiedTypeName name="Bike"/>
 <fullyQualifiedTypeName name="Bus"/>
 <fullyQualifiedTypeName name="Vehicle"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="Employee"/>
+<fullyQualifiedTypeName name="Address"/>
 </qualifiedTypeNameHistroy>
